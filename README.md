@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cynthia or Xu Kexin</h1>
 <h3 align="center">A passionate coding and programming learner</h3>
 
-- <p>🌱 I am a student who studied in English Language but still get a strong passion for coding and programming.</p>
+- <p>🌱 I am a student who studied in English Language but get a strong passion for coding and programming.</p>
 - <p>🌻 I am a lifelong learner, always got ready and excited to learn new techs.</p>
 - <p>📚 I am currently learning Node.js, React Native</p>
 - <p>📫 Reach me at cynthia620ryn@outlook.com</p>
