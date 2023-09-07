@@ -3,7 +3,7 @@
 
 - <p>🌱 I am a student who studied in English Language but still get a strong passion for coding and programming.</p>
 - <p>🌻 I am a lifelong learner, always got ready and excited to learn new techs.</p>
-- <p>🌱 I’m currently learning **Node.js, React Native**</p>
+- <p>📚 I’m currently learning **Node.js, React Native**</p>
 - <p>📫 Reach me at **Cynthia620ryn@outlook.com**</p>
 
 <h3 align="left">Languages and Tools:</h3>
